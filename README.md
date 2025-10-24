@@ -8,3 +8,4 @@ INSTRUCTIONS,
 run the socialmedia.pro on qt or add the files manually on qt
 
 NOTE: qt is necessary to run the application
+you can watch the app running in the sample video provided (sm app.mp4)
